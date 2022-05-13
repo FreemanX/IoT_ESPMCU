@@ -30,3 +30,4 @@ void loopWifiConnected(){
     delay(1000);
 }
 ```
+[Reference](https://how2electronics.com/esp8266-manual-wifi-configuration-without-hard-code-with-eeprom/)
